@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [saman waruka](https://github.com/saman-waruka)
+- Place: Chiang-Mai, Thailand
+- Bio: Web developer  Node.js
+- Github: [saman-waruka](https://github.com/saman-waruka)
